@@ -7,7 +7,6 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 
 class SecondFragment : Fragment(R.layout.fragment_second) {
-
     private val clearDataButton: Button by lazy { requireActivity().findViewById(R.id.btnClearData) }
     private val userNameFromFirstFragment: TextView by lazy { requireActivity().findViewById(R.id.tvName) }
     private val userSecondNameFromFirstFragment: TextView by lazy { requireActivity().findViewById(R.id.tvSecondName) }
