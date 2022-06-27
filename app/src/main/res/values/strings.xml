@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoFragments</string>
+    <string name="et_name">Name</string>
+    <string name="et_second_name">Second Name</string>
+    <string name="et_e_mail">E-mail</string>
+    <string name="button_clear_data">Clear data</string>
+</resources>
